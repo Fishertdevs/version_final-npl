@@ -1,0 +1,133 @@
+PREGUNTA_1: ¿Cuánto cuestan las zapatillas de running?
+S → SV
+SV, cuestan → V SVp
+V, cuestan → cuestan
+SVp → SN
+SN → det N
+det → los
+N → producto adjetivo
+producto → tenis
+adjetivo → de running
+
+PREGUNTA_2: ¿Qué productos de Nike tienen disponibles?
+S → SV
+SV, tienen → V SVp
+V, tienen → tienen
+SVp → SN
+SN → det N
+det → qué
+N → producto marca adjetivo
+producto → productos
+marca → de Nike
+adjetivo → disponibles
+
+PREGUNTA_3: ¿Tienen balones de fútbol en stock?
+S → SV
+SV, tienen → V SVp
+V, tienen → tienen
+SVp → SN
+SN → N
+N → producto adjetivo
+producto → balones
+adjetivo → de fútbol en stock
+
+PREGUNTA_4: ¿Cuál es el precio de la raqueta de tenis?
+S → SV
+SV, es → V SVp
+V, es → es
+SVp → SN
+SN → det N
+det → el
+N → producto Np
+producto → precio
+Np → de SN
+SN → det N
+det → la
+N → producto marca
+producto → raqueta
+marca → de tenis
+
+PREGUNTA_5: ¿Qué marcas de ropa deportiva manejan?
+S → SV
+SV, manejan → V SVp
+V, manejan → manejan
+SVp → SN
+SN → det N
+det → qué
+N → producto Np
+producto → marcas
+Np → de SN
+SN → N adjetivo
+N → ropa
+adjetivo → deportiva
+
+PREGUNTA_6: ¿Cuántas bicicletas de montaña tienen disponibles?
+S → SV
+SV, tienen → V SVp
+V, tienen → tienen
+SVp → SN
+SN → det N
+det → cuántas
+N → producto adjetivo
+producto → bicicletas
+adjetivo → de montaña disponibles
+
+PREGUNTA_7: ¿Los guantes de boxeo son de cuero genuino?
+S → SV
+SV, son → V SVp
+V, son → son
+SVp → SN
+SN → det N
+det → los
+N → producto adjetivo
+producto → guantes
+adjetivo → de boxeo
+SVp → SP
+SP → prep SN
+prep → de
+SN → N adjetivo
+N → cuero
+adjetivo → genuino
+
+PREGUNTA_8: ¿Hacen entregas a domicilio?
+S → SV
+SV, hacen → V SVp
+V, hacen → hacen
+SVp → SN SP
+SN → N
+N → producto
+producto → entregas
+SP → prep SN
+prep → a
+SN → N
+N → lugar
+lugar → domicilio
+
+PREGUNTA_9: ¿Qué garantía ofrecen en los productos?
+S → SV
+SV, ofrecen → V SVp
+V, ofrecen → ofrecen
+SVp → SN SP
+SN → det N
+det → qué
+N → producto
+producto → garantía
+SP → prep SN
+prep → en
+SN → det N
+det → los
+N → producto
+producto → productos
+
+PREGUNTA_10: ¿Dónde están ubicadas las sucursales?
+S → SV
+SV, están → V SVp
+V, están → están
+SVp → SN
+SN → det N
+det → las
+N → adjetivo producto
+adjetivo → ubicadas
+producto → sucursales
+SP → adv
+adv → dónde

@@ -1,0 +1,38 @@
+S, interrogativo -> interrogativo S
+S, verbo -> SV
+S, det -> SN SV
+S, producto -> SN SV
+S, marca -> SN SV
+S, unidad -> SN SV
+S, adjetivo -> SN SV
+S, numero -> SN SV
+
+SN, det -> det N
+SN, producto -> N
+SN, marca -> N
+SN, unidad -> N
+SN, adjetivo -> N
+SN, numero -> numero unidad Np
+
+SV, verbo -> V SVp
+
+SVp, det -> SN
+SVp, producto -> SN
+SVp, marca -> SN
+SVp, unidad -> SN
+SVp, adjetivo -> SN
+SVp, numero -> SN
+SVp, $ -> ε
+
+N, producto -> producto
+N, marca -> marca
+N, unidad -> unidad Np
+N, adjetivo -> adjetivo
+N, numero -> numero unidad Np
+
+Np, producto -> producto
+Np, marca -> marca
+Np, unidad -> unidad
+Np, $ -> ε
+
+V, verbo -> verbo

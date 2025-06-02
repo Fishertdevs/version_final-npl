@@ -1,0 +1,162 @@
+# PRODUCTOS DE TIENDA DEPORTIVA
+# ==============================
+
+#tenis_running
+ubicacion: seccion_calzado_deportivo
+precio_unidad: 8500
+precio_paquete: 24650
+stock: sí
+marca: nike
+contenido: malla transpirable
+
+#raquetas_tenis
+ubicacion: seccion_deportes_raqueta
+precio_unidad: 12000
+precio_paquete: 34800
+stock: sí
+marca: wilson
+contenido: grafito profesional
+
+#pelotas_futbol
+ubicacion: seccion_deportes_equipo
+precio_unidad: 4500
+precio_paquete: 13050
+stock: sí
+marca: adidas
+contenido: cuero sintético
+
+#guantes_boxeo
+ubicacion: seccion_artes_marciales
+precio_unidad: 6800
+precio_paquete: 19720
+stock: sí
+marca: everlast
+contenido: cuero genuino
+
+#bicicletas_montana
+ubicacion: seccion_ciclismo
+precio_unidad: 35000
+precio_paquete: 101500
+stock: sí
+marca: trek
+contenido: aluminio liviano
+
+#cascos_ciclismo
+ubicacion: seccion_proteccion
+precio_unidad: 2800
+precio_paquete: 8120
+stock: sí
+marca: specialized
+contenido: poliestireno expandido
+
+#shorts_deportivos
+ubicacion: seccion_ropa_deportiva
+precio_unidad: 3200
+precio_paquete: 9280
+stock: sí
+marca: under_armour
+contenido: polyester dri-fit
+
+#sudaderas_entrenamiento
+ubicacion: seccion_ropa_deportiva
+precio_unidad: 4500
+precio_paquete: 13050
+stock: sí
+marca: adidas
+contenido: algodón-poliéster
+
+#balones_basquet
+ubicacion: seccion_deportes_equipo
+precio_unidad: 3800
+precio_paquete: 11020
+stock: sí
+marca: spalding
+contenido: cuero compuesto
+
+#pesas_mancuernas
+ubicacion: seccion_fitness
+precio_unidad: 2500
+precio_paquete: 7250
+stock: sí
+marca: bowflex
+contenido: hierro fundido
+
+#camisetas_deportivas
+ubicacion: seccion_ropa_deportiva
+precio_unidad: 2800
+precio_paquete: 8120
+stock: sí
+marca: nike
+contenido: dri-fit tecnologia
+
+#rodilleras_proteccion
+ubicacion: seccion_proteccion
+precio_unidad: 1800
+precio_paquete: 5220
+stock: sí
+marca: mcdavid
+contenido: neopreno elastico
+
+#patines_linea
+ubicacion: seccion_patinaje
+precio_unidad: 15000
+precio_paquete: 43500
+stock: sí
+marca: rollerblade
+contenido: fibra carbono
+
+#raquetas_badminton
+ubicacion: seccion_deportes_raqueta
+precio_unidad: 8500
+precio_paquete: 24650
+stock: sí
+marca: yonex
+contenido: grafito liviano
+
+#uniformes_futbol
+ubicacion: seccion_ropa_deportiva
+precio_unidad: 5500
+precio_paquete: 15950
+stock: sí
+marca: nike
+contenido: poliéster climacool
+
+#balones_voleibol
+ubicacion: seccion_deportes_equipo
+precio_unidad: 3200
+precio_paquete: 9280
+stock: sí
+marca: mikasa
+contenido: cuero sintético
+
+#cinturones_karate
+ubicacion: seccion_artes_marciales
+precio_unidad: 1200
+precio_paquete: 3480
+stock: sí
+marca: century
+contenido: algodón resistente
+
+#gafas_natacion
+ubicacion: seccion_deportes_acuaticos
+precio_unidad: 1500
+precio_paquete: 4350
+stock: sí
+marca: speedo
+contenido: silicona antiempañante
+
+#chalecos_salvavidas
+ubicacion: seccion_deportes_acuaticos
+precio_unidad: 8800
+precio_paquete: 25520
+stock: sí
+marca: oneill
+contenido: neopreno flotante
+
+#barras_proteina
+ubicacion: seccion_suplementos
+precio_unidad: 180
+precio_paquete: 522
+stock: sí
+marca: optimum_nutrition
+contenido: proteina whey
